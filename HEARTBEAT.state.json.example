@@ -1,0 +1,55 @@
+{
+  "last_update": "2026-02-08T00:00:00",
+  "tasks_recurring": {
+    "tech-news": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "daily-summary": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "monitor-memory": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "self-improvement": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "sandbox-experiments": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "auto-deploy": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "proactive-coordinator": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    },
+    "night-owl": {
+      "last_run": null,
+      "checks_this_week": 0,
+      "week_start": "2026-02-03T00:00:00",
+      "last_status": "pending"
+    }
+  },
+  "tasks_once_completed": [],
+  "tasks_once_pending": []
+}
